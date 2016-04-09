@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/maven_java_server.iml" filepath="$PROJECT_DIR$/maven_java_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1.1.iml" filepath="$PROJECT_DIR$/L1.1.iml" />
     </modules>
   </component>
 </project>
